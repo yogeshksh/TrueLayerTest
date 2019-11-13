@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Job Search_Appplied_Interviews\\TrueLayer\\TrueLayerTest\\TrueLayerModels\\TrueLayerModels.csproj": {}
+  },
+  "projects": {
+    "F:\\Job Search_Appplied_Interviews\\TrueLayer\\TrueLayerTest\\TrueLayerModels\\TrueLayerModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Job Search_Appplied_Interviews\\TrueLayer\\TrueLayerTest\\TrueLayerModels\\TrueLayerModels.csproj",
+        "projectName": "TrueLayerModels",
+        "projectPath": "F:\\Job Search_Appplied_Interviews\\TrueLayer\\TrueLayerTest\\TrueLayerModels\\TrueLayerModels.csproj",
+        "packagesPath": "C:\\Users\\yogesh\\.nuget\\packages\\",
+        "outputPath": "F:\\Job Search_Appplied_Interviews\\TrueLayer\\TrueLayerTest\\TrueLayerModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yogesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

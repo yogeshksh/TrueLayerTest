@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TrueLayerTestApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--posts 30"
+    }
+  }
+}

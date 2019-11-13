@@ -1,0 +1,14 @@
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\bin\Debug\netcoreapp2.1\TrueLayerUnitTestProject.deps.json
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\bin\Debug\netcoreapp2.1\TrueLayerUnitTestProject.runtimeconfig.json
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\bin\Debug\netcoreapp2.1\TrueLayerUnitTestProject.runtimeconfig.dev.json
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\bin\Debug\netcoreapp2.1\TrueLayerUnitTestProject.dll
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\bin\Debug\netcoreapp2.1\TrueLayerUnitTestProject.pdb
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\obj\Debug\netcoreapp2.1\TrueLayerUnitTestProject.csprojAssemblyReference.cache
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\obj\Debug\netcoreapp2.1\TrueLayerUnitTestProject.csproj.CoreCompileInputs.cache
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\obj\Debug\netcoreapp2.1\TrueLayerUnitTestProject.AssemblyInfoInputs.cache
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\obj\Debug\netcoreapp2.1\TrueLayerUnitTestProject.AssemblyInfo.cs
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\obj\Debug\netcoreapp2.1\TrueLayerUnitTestProject.dll
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerUnitTestProject\obj\Debug\netcoreapp2.1\TrueLayerUnitTestProject.pdb

@@ -1,0 +1,11 @@
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\obj\Debug\netcoreapp2.1\TrueLayerTestApp.csprojAssemblyReference.cache
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\obj\Debug\netcoreapp2.1\TrueLayerTestApp.csproj.CoreCompileInputs.cache
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\obj\Debug\netcoreapp2.1\TrueLayerTestApp.AssemblyInfoInputs.cache
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\obj\Debug\netcoreapp2.1\TrueLayerTestApp.AssemblyInfo.cs
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\bin\Debug\netcoreapp2.1\HackerNews.deps.json
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\bin\Debug\netcoreapp2.1\HackerNews.runtimeconfig.json
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\bin\Debug\netcoreapp2.1\HackerNews.runtimeconfig.dev.json
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\bin\Debug\netcoreapp2.1\HackerNews.dll
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\bin\Debug\netcoreapp2.1\HackerNews.pdb
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\obj\Debug\netcoreapp2.1\HackerNews.dll
+F:\Job Search_Appplied_Interviews\TrueLayer\TrueLayerTest\TrueLayerTestApp\obj\Debug\netcoreapp2.1\HackerNews.pdb
